@@ -7,7 +7,7 @@
 <img src=https://i.imgur.com/w89FHm7.jpeg>
 </p>
   <p align="center">
-<a href="https://github.com/Walcker007"><img title="Author" src="https://img.shields.io/badge/Author-Walcker007/Amalser?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Walcker007"><img title="Author" src="https://img.shields.io/badge/Author-Walcker007/Walcker007?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
