@@ -11,7 +11,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Amal-ser">Amal-ser</a> to make it public
+Project created by <a href="https://github.com/Walcker007">Amal-ser</a> to make it public
     <br>
        | © |
         Reserved |
@@ -37,14 +37,14 @@ https://www.instagram.com/p/CCdcH3FBd1a/?utm_medium=copy_link
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Walcker007/Amalsir.git)
 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Amalser/Amalser)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Walcker007/Amalser)
   
 ### The Hard Method
 ```js
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/Amal-ser/Amalser
+$ git clone https://github.com/walcker007/Amalser
 $ cd Amalser
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -53,7 +53,7 @@ $ node Amalser.js
       
 ```js
 SETUP
-$ git clone https://github.com/Amal-ser/Amalser
+$ git clone https://github.com/Walcker007/Amalser
 $ cd Amalser
 $ npm i
 $ node Amalser.js
@@ -62,16 +62,16 @@ $ node Amalser.js
 ----
 
   <p align="center">
-  <a href="httsp://github.com/Amal-ser/Amalser">
+  <a href="httsp://github.com/Walcker007/Amalser">
     
-<a href="https://github.com/Amal-ser/followers">
-<img src="https://img.shields.io/github/repo-size/Amal-ser/Amalser?color=green&label=Repo%20total%20size&style=plastic">
+<a href="https://github.com/Walcker007/followers">
+<img src="https://img.shields.io/github/repo-size/Walcker007/Amalser?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/Amal-ser/followers"
+<a href="https://github.com/Walcker007/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/Amal-ser?color=blue&style=flat-square"></a>
-<a href="https://github.com/Amal-ser/Amalser/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Amal-ser/Amalser?color=blue&style=flat-square"></a>
-<a href="https://github.com/Amal-ser/Amalser/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Amal-ser/Amalser?color=blue&style=flat-square"></a>
-<a href="https://github.com/Amal-ser/Amalser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Amal-ser/Amalser?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Walcker007/Amalser/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Walcker007/Amalser?color=blue&style=flat-square"></a>
+<a href="https://github.com/Walcker007/Amalser/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Walcker007/Amalser?color=blue&style=flat-square"></a>
+<a href="https://github.com/Walcker007/Amalser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Walcker007/Amalser?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## 📢 Guide
@@ -81,7 +81,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/CbRlEux876XFsWQfIlOKty)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Amal-ser&repo=Amalser&theme=nightowl)](https://github.com/Amal-ser/Amalser)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Walcker007&repo=Amalser&theme=nightowl)](https://github.com/Amal-ser/Amalser)
   </div>
     
 ### ⚠ Warning ⚠
